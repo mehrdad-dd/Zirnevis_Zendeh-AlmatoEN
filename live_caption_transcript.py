@@ -11,7 +11,7 @@ from pywinauto.findwindows import ElementNotFoundError
 # -----------------------------
 # CONFIG
 # -----------------------------
-MODEL_DIR = r"D:/Projects/sentence_transformers/translation_models/JustFrederik_nllb-200-distilled-600M-ct2-int8"
+MODEL_DIR = r"E:/MyPath/translation_models/JustFrederik_nllb-200-distilled-600M-ct2-int8"
 SRC_LANG = "deu_Latn"
 TGT_LANG = "eng_Latn"
 
@@ -23,8 +23,8 @@ MIN_LEN_NO_PUNCT = 18
 
 # Excel files (DIRECT PATHS ON DRIVE D)
 EXCEL_FILES = [
-    r"D:\Personal\MDD\fani.xlsx",
-    r"D:\Personal\MDD\hr.xlsx",
+    r"E:\test1.xlsx",
+    r"E:\test2.xlsx",
 ]
 
 # -----------------------------
