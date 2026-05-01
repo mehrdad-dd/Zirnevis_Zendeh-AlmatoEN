@@ -1,11 +1,8 @@
 # *** This text has been sanitized by AI for spell checking and to prevent gramatic mistakes. ***
 
-# Liveuntertitel-DE-to-EN
-Live German-to-English Subtitle Translator
+# ZendehDtEsubMotarjem 
 
-🎧 Live German-to-English Subtitle Translator
-
-A real-time subtitle extraction and translation tool that captures German live captions (Liveuntertitel) from Windows UI and translates them into English using an optimized NLLB-200 (CTranslate2) model.
+A real-time subtitle extraction and translation tool that captures live captions (Liveuntertitel) from Windows UI and translates them using an optimized NLLB-200 (CTranslate2) model.
 
 🚀 Features
 🔴 Real-time subtitle monitoring from Windows Live Caption window
