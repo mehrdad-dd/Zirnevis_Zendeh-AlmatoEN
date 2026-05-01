@@ -60,8 +60,8 @@ MIN_LEN_NO_PUNCT = 18
 Automatically opens Excel files at startup:
 
 EXCEL_FILES = [
-    r"D:\Personal\MDD\fani.xlsx",
-    r"D:\Personal\MDD\hr.xlsx",
+    r"D:\test1.xlsx",
+    r"D:\test2.xlsx",
 ]
 ▶️ Usage
 Enable Windows Live Captions (German)
